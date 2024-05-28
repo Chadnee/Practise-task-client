@@ -1,0 +1,115 @@
+[
+    {
+    "image": "https://img.freepik.com/free-photo/man-praying-floor-indoors_23-2148869303.jpg?w=900&t=st=1700934985~exp=1700935585~hmac=4ff50df08c03bd968a4adbd4db7ac636b2b2745bb473b86d0c485fdc1255ebcc",
+     "name": "Elegant Abaya",
+      "price": 59.99,
+      "category": "muslimWear",
+      "quality": "Premium",
+      "ratings": 4
+    },
+    {
+      "image":  "https://img.freepik.com/free-photo/man-praying-floor-indoors_23-2148869303.jpg?w=900&t=st=1700934985~exp=1700935585~hmac=4ff50df08c03bd968a4adbd4db7ac636b2b2745bb473b86d0c485fdc1255ebcc",
+      "name": "Traditional Hijab",
+      "price": 29.99,
+      "category": "muslimWear",
+      "quality": "Standard",
+      "ratings": 5
+    },
+    {
+      "image":  "https://img.freepik.com/free-photo/man-praying-floor-indoors_23-2148869303.jpg?w=900&t=st=1700934985~exp=1700935585~hmac=4ff50df08c03bd968a4adbd4db7ac636b2b2745bb473b86d0c485fdc1255ebcc",
+      "name": "Men's Jubba",
+      "price": 49.99,
+      "category": "muslimWear",
+      "quality": "High",
+      "ratings": 3.5
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/man-praying-floor-indoors_23-2148869303.jpg?w=900&t=st=1700934985~exp=1700935585~hmac=4ff50df08c03bd968a4adbd4db7ac636b2b2745bb473b86d0c485fdc1255ebcc",
+      "name": "Islamic Calligraphy Art",
+      "price": 39.99,
+      "category": "muslimWear",
+      "quality": "Premium",
+      "ratings": 4
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/man-praying-floor-indoors_23-2148869303.jpg?w=900&t=st=1700934985~exp=1700935585~hmac=4ff50df08c03bd968a4adbd4db7ac636b2b2745bb473b86d0c485fdc1255ebcc"
+       ,
+      "name": "Women's Prayer Dress",
+      "price": 19.99,
+      "category": "muslimWear",
+      "quality": "Standard",
+      "ratings": 5
+    },
+    {
+      "image":"https://img.freepik.com/free-photo/man-praying-floor-indoors_23-2148869303.jpg?w=900&t=st=1700934985~exp=1700935585~hmac=4ff50df08c03bd968a4adbd4db7ac636b2b2745bb473b86d0c485fdc1255ebcc",
+      "name": "Kufi Hat",
+      "price": 9.99,
+      "category": "muslimWear",
+      "quality": "Basic",
+      "ratings": 4.5
+    },
+    {
+      "image":"https://img.freepik.com/free-photo/man-praying-floor-indoors_23-2148869303.jpg?w=900&t=st=1700934985~exp=1700935585~hmac=4ff50df08c03bd968a4adbd4db7ac636b2b2745bb473b86d0c485fdc1255ebcc",
+      "name": "Islamic Wall Clock",
+      "price": 24.99,
+      "category": "muslimWear",
+      "quality": "Standard",
+      "ratings": 3
+    },
+    {
+      "image":"https://img.freepik.com/free-photo/man-praying-floor-indoors_23-2148869303.jpg?w=900&t=st=1700934985~exp=1700935585~hmac=4ff50df08c03bd968a4adbd4db7ac636b2b2745bb473b86d0c485fdc1255ebcc",
+      "name": "Prayer Mat Set",
+      "price": 34.99,
+      "category": "muslimWear",
+      "quality": "High",
+      "ratings": 3
+    },
+    {
+      "image":"https://img.freepik.com/free-photo/knitting-golden-ribbon-tissue_114579-12290.jpg?w=900&t=st=1700935464~exp=1700936064~hmac=bc717070bb37e02fd5858b47f97b8a372a8d6529102ff2b60de468010f99d00e",
+      "name": "Silk Sari",
+      "price": 99.99,
+      "category": "traditionalWear",
+      "quality": "Premium",
+      "ratings": 4
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/knitting-golden-ribbon-tissue_114579-12290.jpg?w=900&t=st=1700935464~exp=1700936064~hmac=bc717070bb37e02fd5858b47f97b8a372a8d6529102ff2b60de468010f99d00e",
+      "name": "Embroidered Kurta",
+      "price": 69.99,
+      "category": "traditionalWear",
+      "quality": "High",
+      "ratings": 5
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/knitting-golden-ribbon-tissue_114579-12290.jpg?w=900&t=st=1700935464~exp=1700936064~hmac=bc717070bb37e02fd5858b47f97b8a372a8d6529102ff2b60de468010f99d00e",
+      "name": "Banarasi Lehenga",
+      "price": 119.99,
+      "category": "traditionalWear",
+      "quality": "Premium",
+      "ratings": 4.5
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/knitting-golden-ribbon-tissue_114579-12290.jpg?w=900&t=st=1700935464~exp=1700936064~hmac=bc717070bb37e02fd5858b47f97b8a372a8d6529102ff2b60de468010f99d00e",
+      "name": "Men's Sherwani",
+      "price": 89.99,
+      "category": "traditionalWear",
+      "quality": "High",
+      "ratings": 2
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/knitting-golden-ribbon-tissue_114579-12290.jpg?w=900&t=st=1700935464~exp=1700936064~hmac=bc717070bb37e02fd5858b47f97b8a372a8d6529102ff2b60de468010f99d00e",
+      "name": "Rajasthani Dupatta",
+      "price": 49.99,
+      "category": "traditionalWear",
+      "quality": "Standard",
+      "ratings": 2.5
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/knitting-golden-ribbon-tissue_114579-12290.jpg?w=900&t=st=1700935464~exp=1700936064~hmac=bc717070bb37e02fd5858b47f97b8a372a8d6529102ff2b60de468010f99d00e",
+    "name": "Patiala Salwar",
+    "price": 39.99,
+    "category": "traditionalWear",
+    "quality": "Standard",
+    "ratings": 4.4
+  }
+]
